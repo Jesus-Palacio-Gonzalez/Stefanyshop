@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npx serve .",
     "dev": "npx live-server .",
-    "build": "npx parcel build index.html",
+    "build": "parcel build index.html",
     "test": "echo \"No test specified\" && exit 0",
     "lint": "npx eslint .",
     "format": "npx prettier --write ."
@@ -19,12 +19,13 @@
   ],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "parcel": "^2.12.0"
+  "engines": {
+    "node": ">=18"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
     "live-server": "^1.2.2",
+    "parcel": "^2.12.0",
     "prettier": "^3.3.3",
     "serve": "^14.2.3"
   }
