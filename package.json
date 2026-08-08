@@ -2,7 +2,6 @@
   "name": "stefyshop",
   "version": "1.0.0",
   "description": "Sitio web de StefyShop para la venta de artesanías",
-  "main": "index.html",
   "type": "module",
   "scripts": {
     "start": "npx serve .",

@@ -1,4 +1,4 @@
-8693
+8726
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@eslint\eslintrc\lib\shared\naming.js134306971597083320 0
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\morgan\node_modules\debug\src\node.js134306971589367300 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\ime.js134306971674845955 0
@@ -12,7 +12,7 @@
 144C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\finalhandler\node_modules\debug\src\index.js134306971587513007 0
 159C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\vocabularies\validation\const.ts134306971665414073 0
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\chokidar\node_modules\glob-parent\node_modules134306971520370452 1
-99C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\package.json134306970353964355 0
+99C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\package.json134306996693158410 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utility-types\dist\mapped-types.js.map134306971582427801 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\esquery\dist134306971595032481 1
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\types\jtd-schema.js134306971617318874 0
@@ -50,13 +50,6 @@
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\esm\_construct.js134306971638272463 0
 166C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\dynamic\dynamicRef.js.map134306971649338405 0
 99C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules134306971728530464 1
-151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\lib\target-slug.mjs134306068465792418 0
-109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\callsites134306971564036667 1
-126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\src\index.mjs134306971680718436 0
-119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\safe-regex\index.js134306971554723055 0
-117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\is-docker\license134306971542694902 0
-142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\send\node_modules\on-finished\package.json134306971556543523 0
-111C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\Diosainterior\public\img134295521539919593 1
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\node-addon-api134306971593535385 1
 157C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\detector\shared\fonts.mjs134306068445041396 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\snapdragon\lib\source-maps.js134306971576489579 0
@@ -69,6 +62,15 @@
 160C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\live\manual-edits-buffer.mjs134306068446414443 0
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\colors\lib\index.js134306971585368608 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utility-types\dist\aliases-and-guards.d.ts134306971589692170 0
+113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\semver\ranges134306971608576889 1
+124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eastasianwidth\README.md134306971554360404 0
+147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\critique.md134306068470747567 0
+114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\base\README.md134306971560811260 0
+105C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\boxen134306971571062478 1
+114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\balanced-match134306971562332402 1
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv134306971660616095 1
+91C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist134306997107156248 1
+146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\source-map-resolve\lib\decode-uri-component.js134306971551761122 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\unix-crypt-td-js\README.markdown134306971579357140 0
 109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\graphemer134306971596042421 1
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\bundler-default\src134306971572900027 1
@@ -90,6 +92,9 @@
 154C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_class_private_method_init\package.json134306971658910282 0
 97C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\index.html134306959675126393 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@ungap\structured-clone\cjs\json.js134306971570972518 0
+108C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\isobject134306971564214712 1
+150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs134306971606771701 0
+96C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\README.md134306974615215775 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\map.png134306971591799592 0
 109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\term-size134306971584382652 1
 104C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\package-lock.json134306971726690303 0
@@ -106,6 +111,15 @@
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\no-import-assign.js134306971658447471 0
 110C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\clipboardy134306971604159278 1
 93C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\public134306927816549852 1
+176C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\unevaluated\unevaluatedItems.js.map134306971659637442 0
+109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\util134306971639208242 1
+124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uuid\lib\sha1-browser.js134306971579227225 0
+126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\util\RangeIterable.js134306971638674833 0
+158C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json134306971657416933 0
+97C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\pruebas.ts134306975331296206 0
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\repeat-element\LICENSE134306971543738329 0
+109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\logo.f699558a.png134306997098941244 0
+126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\watcher\src\kqueue134306971601655084 1
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1134306971595922435 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\optimizer-svg\lib\SVGOptimizer.js134306971561505187 0
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\vocabularies\core\ref.ts134306971681542764 0
@@ -118,6 +132,7 @@
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\type-fest\readme.md134306971557650503 0
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\snapdragon\node_modules\is-descriptor\test\index.js134306971573637796 0
 155C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js134306971569963907 0
+118C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\haz tu pedido.6490ddba.jpg134306997104460661 0
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\no-underscore-dangle.js134306971671681003 0
 96C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\style.css134306962455242665 0
 106C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\braces134306971565468302 1
@@ -131,14 +146,6 @@
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\which\which.js134306971556962912 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\estraverse\gulpfile.js134306971562825388 0
 108C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\public\artesanias.png134306911805402114 0
-140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-handler\node_modules\bytes\LICENSE134306971550827399 0
-138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_word.png134306971625287694 0
-117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\is-port-reachable134306971569450822 1
-152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\application_xp_terminal.png134306971581753995 0
-129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\unix-crypt-td-js\package.json134306971576559640 0
-178C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\scripts\detector\engines\static-html\detect-html.mjs134306068474774593 0
-109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\camelcase134306971564292988 1
-128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\shebang-command\package.json134306971555690345 0
 156C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\format\index.js134306971612231929 0
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\css-marker-pseudo.js134306971647670456 0
 111C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\live-server134306971704756100 1
@@ -310,11 +317,6 @@
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utility-types\dist\utility-types.d.ts134306971592995452 0
 102C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\rc134306971579427168 1
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\weak-lru-cache\dist134306971545769323 1
-112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite134306971700762077 1
-146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\runtime\uri.js.map134306971659790758 0
-126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\index.d.ts134306971578783725 0
-117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\picomatch\LICENSE134306971543284276 0
-112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\through\test134306971581622149 1
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\text-table\example\table.js134306971578092599 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\messages\failed-to-read-json.js134306971622439995 0
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\json-stable-stringify-without-jsonify\test\space.js134306971586219071 0
@@ -343,12 +345,6 @@
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\nanomatch\node_modules\kind-of\CHANGELOG.md134306971560753470 0
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\LICENSE134306971556146705 0
 116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\wrappy\README.md134306971548565546 0
-113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\semver\ranges134306971608576889 1
-124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eastasianwidth\README.md134306971554360404 0
-147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\critique.md134306068470747567 0
-114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\base\README.md134306971560811260 0
-105C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\boxen134306971571062478 1
-114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\balanced-match134306971562332402 1
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\brace-expansion134306971558446239 1
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\no-useless-concat.js134306971674587496 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\GW.js134306971672061377 0
@@ -410,6 +406,26 @@
 108C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\bin134306971637819783 1
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\adapters\fs.js134306971561326323 0
 152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\snapdragon\node_modules\is-descriptor\.gitattributes134306971556414627 0
+151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\lib\target-slug.mjs134306068465792418 0
+109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\callsites134306971564036667 1
+126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\src\index.mjs134306971680718436 0
+119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\safe-regex\index.js134306971554723055 0
+117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\is-docker\license134306971542694902 0
+142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\send\node_modules\on-finished\package.json134306971556543523 0
+111C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\Diosainterior\public\img134295521539919593 1
+140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-handler\node_modules\bytes\LICENSE134306971550827399 0
+138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_word.png134306971625287694 0
+117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\is-port-reachable134306971569450822 1
+152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\application_xp_terminal.png134306971581753995 0
+129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\unix-crypt-td-js\package.json134306971576559640 0
+178C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\scripts\detector\engines\static-html\detect-html.mjs134306068474774593 0
+109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\camelcase134306971564292988 1
+128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\shebang-command\package.json134306971555690345 0
+112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite134306971700762077 1
+146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\runtime\uri.js.map134306971659790758 0
+126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\index.d.ts134306971578783725 0
+117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\picomatch\LICENSE134306971543284276 0
+112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\through\test134306971581622149 1
 105C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\chalk134306971573398638 1
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\type-fest\source\promisable.d.ts134306971599256142 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_create_super.cjs134306971605183716 0
@@ -453,10 +469,10 @@
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\semver\internal\parse-options.js134306971600945014 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\utils\test\sourcemap.test.js134306971623736906 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\msgpackr\dist\index-no-eval.min.js134306971583547811 0
+148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\overdrive.md134306068471492334 0
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\setprototypeof\index.d.ts134306971548520419 0
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\bcryptjs\src\bower.json134306971598494802 0
 154C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\scripts\critique-storage.mjs134306068473034136 0
-148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\overdrive.md134306068471492334 0
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\path-to-regexp\index.js134306971549726295 0
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\color-convert134306971572162151 1
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\LT.js134306971684528230 0
@@ -555,9 +571,9 @@
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\shadowdom.js134306971692010729 0
 117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\cli.js134306971601807888 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\file-entry-cache\changelog.md134306971561417993 0
+142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\doctor.mjs134306068464345570 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\json-schema-traverse\package.json134306971544048242 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\range-parser134306971563996334 1
-142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\doctor.mjs134306068464345570 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\ajv\lib\dotjs\items.js134306971608106888 0
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\prettier\plugins\acorn.d.ts134306971655067458 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\detector\profile134306068463696038 1
@@ -566,9 +582,9 @@
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\ajv\lib\dot\anyOf.jst134306971622093590 0
 116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\tslib\tslib.d.ts134306971584370016 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\AE.js134306971580656240 0
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utils-merge\.npmignore134306971549635539 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\prettier\plugins\graphql.d.ts134306971657186150 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\atob\test.js134306971575768237 0
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utils-merge\.npmignore134306971549635539 0
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\sync134306971581552205 1
 108C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\duplexer134306971569297517 1
 150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js134306971589267286 0
@@ -591,6 +607,7 @@
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\lines-around-comment.js134306971639418181 0
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@eslint\eslintrc\lib\index-universal.js134306971594392406 0
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utility-types\LICENSE134306971548020430 0
+115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\linea-care.8b4a61ed.png134306997098941244 0
 157C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\runtime\validation_error.d.ts134306971686990380 0
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\fs\lib\types.d.ts134306971597858796 0
 155C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h134306971635849594 0
@@ -667,13 +684,13 @@
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uuid\LICENSE.md134306971589822135 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\rust134306971580466211 1
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\es6\index.d.ts134306971576179558 0
-120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\mime-types\README.md134306971569853903 0
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\optimize.md134306068471367587 0
+120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\mime-types\README.md134306971569853903 0
+112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\event-stream134306971582263663 1
+117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\cli-boxes\license134306971548087843 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\rem.js134306971690980145 0
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_paste.png134306971602641531 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\require-from-string\readme.md134306971559438996 0
-112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\event-stream134306971582263663 1
-117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\cli-boxes\license134306971548087843 0
 149C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web134306971631127831 1
 110C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\on-headers134306971564056880 1
 109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\wrap-ansi134306971563961081 1
@@ -959,7 +976,6 @@
 105C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\isexe134306971573697809 1
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@zeit\schemas134306971588018054 1
 156C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\vocabularies\format\format.ts134306971671571841 0
-108C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\isobject134306971564214712 1
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\graceful-fs\package.json134306971569136489 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\object-copy\node_modules134306971520328476 1
 167C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5134306971590167736 0
@@ -1080,7 +1096,6 @@
 126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\stream-combiner\.npmignore134306971566186801 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\optionator\lib\util.js134306971564393623 0
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\node-releases134306971573306229 1
-145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\polish.md134306068471554032 0
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\config\flat-config-schema.js134306971623796845 0
 160C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\refs\json-schema-2019-09\index.ts134306971672647061 0
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\prettier\plugins\glimmer.js134306971609416633 0
@@ -1115,6 +1130,7 @@
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\js-yaml\lib\loader.js134306971593615404 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\types\json-schema.js134306971614810774 0
 104C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\once134306971558324394 1
+116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\DiosaInterior\index.html134306997105860056 0
 164C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\validation\const.js.map134306971646080005 0
 108C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\readdirp134306971565438053 1
 157C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\jtd\index.js.map134306971651950264 0
@@ -1694,9 +1710,6 @@
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utility-types\dist\index.js.map134306971581472144 0
 169C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\validation\limitItems.js.map134306971656842550 0
 169C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\validation\multipleOf.js.map134306971657332233 0
-126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\types134306971586609061 1
-159C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\lib\template-extensions.mjs134306068445711637 0
-123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\sync\index.mjs134306971573797679 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\VN.js134306971696609098 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\runtime\ucs2length.ts134306971686517439 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\util-deprecate\README.md134306971548672151 0
@@ -1746,9 +1759,6 @@
 110C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uuid\v5.js134306971587373016 0
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uuid\lib\rng.js134306971576479656 0
 150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\scripts\embed-prompt.mjs134306068478887116 0
-176C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\unevaluated\unevaluatedItems.js.map134306971659637442 0
-109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\util134306971639208242 1
-124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uuid\lib\sha1-browser.js134306971579227225 0
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\standalone\index.js.map134306971651205975 0
 116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uuid\lib\sha1.js134306971581086169 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\shared\severity.js134306971685274531 0
@@ -1805,7 +1815,6 @@
 145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\live-wrap.mjs134306068447442685 0
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\utility-types\dist\functional-helpers.js134306971560620738 0
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\through\test\async.js134306971573296174 0
-131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uri-js\dist\esnext\index.js.map134306971595972464 0
 156C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\compile\validate\defaults.js134306971596632537 0
 154C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\metadata.d.ts134306971676193354 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\IN.js134306971675006500 0
@@ -1852,13 +1861,8 @@
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\generator-star-spacing.js134306971628233527 0
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uri-js\package.json134306971591143409 0
 126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lightningcss\node\ast.d.ts134306971590543508 0
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\map-cache\package.json134306971543474310 0
-121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\anymatch\package.json134306971543878298 0
-169C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\dynamic\recursiveAnchor.d.ts134306971680385439 0
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\nanomatch\node_modules134306971520271869 1
-137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_red.png134306971602932321 0
-163C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\refs\json-schema-2019-09\schema.json134306971641670664 0
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uri-js\dist\es5134306971607656893 1
+131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uri-js\dist\esnext\index.js.map134306971595972464 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\nanomatch\lib\parsers.js134306971577797814 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\uri-js\dist\esnext\regexps-iri.d.ts134306971605471653 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\nanomatch\package.json134306971543614245 0
@@ -2064,6 +2068,7 @@
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\webkit-user-drag.js134306971697863742 0
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\node_modules\debug\src\index.js134306971587583016 0
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map134306971598474878 0
+116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\heroslider2.bd7ece13.jpg134306997104460661 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\unix-crypt-td-js\src134306971570118521 1
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\unix-crypt-td-js\unix-crypt-td.min.js134306971574754941 0
 117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\msgpackr\index.js134306971587513007 0
@@ -2171,10 +2176,10 @@
 116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\ret\lib\types.js134306971573040057 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\type-fest\source\set-optional.d.ts134306971601747924 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\event-stream\test\pipeline.asynct.js134306971587373016 0
+163C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\degraded\finish-reviewer.md134306068470848889 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\type-fest\source\set-required.d.ts134306971602144141 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\workers\src\Worker.js134306971609028898 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\watcher\src\wasm134306971602621570 1
-163C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\degraded\finish-reviewer.md134306068470848889 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\semver\classes\semver.js134306971604946568 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\stream.js134306971692418633 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\esrecurse\esrecurse.js134306971549885014 0
@@ -2375,6 +2380,7 @@
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\string-width\node_modules134306971520308280 1
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\string-width\package.json134306971554660318 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\SL.js134306971692126364 0
+114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\StefyShop.5dedd9d6.css134306997105850095 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\string-width\readme.md134306971559665392 0
 159C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor134306971657736559 1
 126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\static-extend\package.json134306971543004590 0
@@ -2497,8 +2503,6 @@
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\source-map-resolve\readme.md134306971576449626 0
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\source-map-resolve\source-map-resolve.js134306971567375010 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@eslint-community\regexpp\index.js.map134306971573512895 0
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv134306971660616095 1
-146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\source-map-resolve\lib\decode-uri-component.js134306971551761122 0
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\semver\classes\comparator.js134306971570745558 0
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\src\registerCoreWithSerializer.js134306971638889947 0
 117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\ignore\index.d.ts134306971571577659 0
@@ -2652,8 +2656,6 @@
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\controller.png134306971586812020 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@eslint\eslintrc\package.json134306971599857556 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\font.png134306971590267736 0
-145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\bundler-default\src\DefaultBundler.js134306971575798364 0
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\dist\index.js134306971551761122 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lightningcss-win32-x64-msvc\LICENSE134306971543284276 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lz4\lib\dll134306971630299664 1
 152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\compile\jtd\parse.js.map134306971657810582 0
@@ -2670,6 +2672,12 @@
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\refs134306971675229564 1
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_lightning.png134306971601697915 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\node_modules\mime-types134306971565849249 1
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\map-cache\package.json134306971543474310 0
+121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\anymatch\package.json134306971543878298 0
+169C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\dynamic\recursiveAnchor.d.ts134306971680385439 0
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\nanomatch\node_modules134306971520271869 1
+137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_red.png134306971602932321 0
+163C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\lib\refs\json-schema-2019-09\schema.json134306971641670664 0
 145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\micromatch\node_modules\is-extendable\LICENSE134306971556503240 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve-index\public\icons\page_refresh.png134306971603310316 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\symbol-description.js134306971687020741 0
@@ -3325,6 +3333,7 @@
 149C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\expand-brackets\node_modules\debug\component.json134306971580326264 0
 144C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\hook-lib.mjs134306068445259900 0
 170C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\validation\limitContains.d.ts134306971675613622 0
+104C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\ArtesaniasCJ134306997106934551 1
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\no-with.js134306971675145306 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\path-is-absolute\package.json134306971543878298 0
 168C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\validation\limitContains.js134306971619898815 0
@@ -3469,6 +3478,7 @@
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\scripts\pin.mjs134306068482991621 0
 174C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\applicator\additionalItems.js.map134306971644805192 0
 160C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\applicator\allOf.js134306971584546744 0
+115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\heroslider.d0d8087a.png134306997104520679 0
 164C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\applicator\allOf.js.map134306971645224245 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\ordered-binary\.nyc_output\processinfo134306971580586158 1
 160C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\serve\node_modules\ajv\dist\vocabularies\applicator\anyOf.js134306971585933265 0
@@ -3848,10 +3858,6 @@
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\optimizer-html\src\HTMLOptimizer.js134306971568674515 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\no-implied-eval.js134306971658307408 0
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\repeat-element\index.js134306971549655751 0
-126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\util\RangeIterable.js134306971638674833 0
-158C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json134306971657416933 0
-126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\watcher\src\kqueue134306971601655084 1
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\repeat-element\LICENSE134306971543738329 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\remove-trailing-separator\history.md134306971554299905 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\remove-trailing-separator\license134306971559438996 0
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArtesaniasCJ\public\d3da6595-19c0-45cd-886d-58b85dcaeabd.jpg134306903913567301 0
@@ -3967,9 +3973,9 @@
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\proxy-middleware\index.js134306971575728252 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\proxy-middleware\LICENSE134306971573667683 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\one-var-declaration-per-line.js134306971675593410 0
-119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\esquery\license.txt134306971598926198 0
-153C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\command-metadata.json134306068462311445 0
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fresh\README.md134306971564829221 0
+153C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\command-metadata.json134306068462311445 0
+119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\esquery\license.txt134306971598926198 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\proxy-middleware\package.json134306971561900849 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\optionator\README.md134306971575127360 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\process-nextick-args\license.md134306971554723055 0
@@ -4038,6 +4044,7 @@
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\prelude-ls\lib\Obj.js134306971571517690 0
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\prelude-ls\lib\Str.js134306971574734916 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_create_super\package.json134306971660637470 0
+120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\productoclasic2.3e996703.png134306997104490581 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\space-infix-ops.js134306971686656222 0
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\object-copy\node_modules\is-descriptor\CHANGELOG.md134306971578823692 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\postcss-value-parser\lib134306971577693961 1
@@ -4086,9 +4093,10 @@
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\get-port\package.json134306971556237585 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\pause-stream\LICENSE134306971569370788 0
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\pause-stream\readme.markdown134306971575103600 0
+163C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt134306971645823369 0
+117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\StefyShop.49dc845a.js.map134306997107061604 0
 118C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\flatted\golang\pkg134306971569792700 1
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\public\Target.js134306971645866059 0
-163C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt134306971645823369 0
 126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\pause-stream\test\index.js134306971578142513 0
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\pause-stream\test\pause-end.js134306971580316197 0
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\path-to-regexp\index.d.ts134306971565468302 0
@@ -4142,9 +4150,9 @@
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\parent-module\license134306971555656234 0
 126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\parent-module\package.json134306971543978258 0
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\public\linea-femenina.png134306100552052205 0
+132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\SKILL.md134306068470180559 0
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\utils\src\ansi-html.js134306971579427168 0
 153C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js134306971579817195 0
-132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\SKILL.md134306068470180559 0
 110C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\parcel\lib134306971575768237 1
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\parcel\LICENSE134306971566007869 0
 116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat134306971581156171 1
@@ -4217,6 +4225,7 @@
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@humanwhocodes\config-array134306971561920996 1
 117C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\once\package.json134306971543224266 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\on-finished\index.js134306971560018266 0
+119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\productodrink1.f7f0f4ed.png134306997098951108 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\on-finished\package.json134306971543645176 0
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\object.pick\LICENSE134306971554817107 0
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\object.pick\package.json134306971543454284 0
@@ -4700,8 +4709,9 @@
 159C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj134306971646265931 0
 149C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\http-live-streaming.js134306971672723080 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js134306971568380038 0
-146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile134306971591413466 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fastq\eslint.config.js134306971555690345 0
+118C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\diosainterior.90e50854.jpg134306997098931073 0
+146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile134306971591413466 0
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md134306971643928772 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_wrap_native_super134306971672087435 1
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@mischnic\json-sourcemap\dist134306971572334519 1
@@ -4941,7 +4951,6 @@
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\core\spack.d.ts134306971586101788 0
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\js-yaml\lib\schema\failsafe.js134306971581156171 0
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\dataset.js134306971658879650 0
-158C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\degraded\documenter.md134306068470831489 0
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\js-yaml\dist\js-yaml.mjs.map134306971606541706 0
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\localecompare.js134306971682990459 0
 153C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\command-metadata.json134306068444184933 0
@@ -5200,8 +5209,9 @@
 152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js134306971622179971 0
 121C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\glob-parent\README.md134306971560400260 0
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\glob\common.js134306971548601015 0
-132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_call_super.cjs134306971588474556 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\glob\glob.js134306971556607460 0
+118C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\StefyShop.5dedd9d6.css.map134306997107051607 0
+132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_call_super.cjs134306971588474556 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\reference\adapt.md134306068443242408 0
 152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_ts_rewrite_relative_import_extension134306971671571841 1
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\event-stream\test\readArray.asynct.js134306971592785344 0
@@ -5372,7 +5382,6 @@
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\es6134306971580296202 1
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\LICENSE134306971544252618 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\script-defer.js134306971691743049 0
-146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\onboard.md134306068471286250 0
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\README.md134306971574150731 0
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\fast-deep-equal\es6\index.js134306971552130122 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\public\linea-drink.png134306041109657354 0
@@ -5580,8 +5589,8 @@
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\default-case-last.js134306971612364455 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\public\productochic2.png134306002075260807 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\default-case.js134306971612605455 0
-122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\sync\index.js134306971557474262 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\default-param-last.js134306971613674462 0
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\sync\index.js134306971557474262 0
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\css-focus-visible.js134306971643805772 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\LS.js134306971683859035 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\eslint\lib\rules\dot-notation.js134306971617158807 0
@@ -5793,6 +5802,11 @@
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\dist134306971569824050 1
 155C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json134306971657256113 0
 119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\index.d.ts134306971580526216 0
+126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\types134306971586609061 1
+159C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\lib\template-extensions.mjs134306068445711637 0
+123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\sync\index.mjs134306971573797679 0
+145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\bundler-default\src\DefaultBundler.js134306971575798364 0
+122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\dist\index.js134306971551761122 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-wasm\package.json134306971578655221 0
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\escalade\dist\index.mjs134306971570705576 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\encodeurl\HISTORY.md134306971565383314 0
@@ -6145,6 +6159,7 @@
 167C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\chokidar\node_modules\glob-parent\node_modules\is-glob\package.json134306971545471833 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\transformer-react-refresh-wrap134306971579937260 1
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\chalk-template\index.d.ts134306971567799892 0
+116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\heroslider1.432f277e.jpg134306997098961091 0
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\chalk-template\index.js134306971552779542 0
 150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js134306971697043307 0
 122C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\chalk-template\license134306971545755797 0
@@ -6251,6 +6266,7 @@
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\ER.js134306971663719740 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\ES.js134306971664465823 0
 151C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\test\fixtures\custom-format-infer-type134306971653004274 1
+113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\ArdyssLife\index.html134306997105850095 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\FJ.js134306971666574848 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\FK.js134306971666614844 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\regions\FM.js134306971666868958 0
@@ -6624,7 +6640,6 @@
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\imports.js134306971674976279 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\public\Asset.js134306971598081436 0
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\indexeddb.js134306971675145306 0
-146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\operate.md134306068471337180 0
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\indexeddb2.js134306971675189143 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\inline-block.js134306971675229564 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\input-color.js134306971675313172 0
@@ -6815,6 +6830,7 @@
 126C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\utils\package.json134306971626180790 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\webnfc.js134306971697887304 0
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\websockets.js134306971697999311 0
+102C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\index.html134306997105850095 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\webtransport.js134306971698034694 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\caniuse-lite\data\features\webusb.js134306971698034694 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\src\public\Config.js134306971613574474 0
@@ -7029,8 +7045,8 @@
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arg\index.d.ts134306971564829221 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arg\index.js134306971543175540 0
 116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arg\package.json134306971548516001 0
-113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arg\README.md134306971559665392 0
 144C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\shape.md134306068472494379 0
+113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arg\README.md134306971559665392 0
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arch\browser.js134306971548545432 0
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arch\index.js134306971554682791 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\arch\LICENSE134306971543151495 0
@@ -7294,7 +7310,6 @@
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_write_only_error134306971672189505 1
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.agents\skills\impeccable\scripts\lib\provider.mjs134306068454924502 0
 149C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_wrap_async_generator\package.json134306971672042755 0
-145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\layout.md134306068471133173 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_using\package.json134306971671970965 0
 165C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_ts_rewrite_relative_import_extension\package.json134306971671571841 0
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\workers\src\process134306971601831665 1
@@ -7356,8 +7371,8 @@
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_async_to_generator\package.json134306971655067458 0
 145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_array_with_holes\package.json134306971652204256 0
 115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\fs\test134306971588987269 1
-144C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_apply_decs_2311\package.json134306971651990266 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\visualize.md134306068472631565 0
+144C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\_apply_decs_2311\package.json134306971651990266 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\_\index\package.json134306971672275232 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs134306971672422790 0
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\src\_apply_decs_2203_r.mjs134306971672478650 0
@@ -7516,7 +7531,6 @@
 153C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_class_static_private_method_get.cjs134306971603633178 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_construct.cjs134306971603974942 0
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_defaults.cjs134306971605781705 0
-150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs134306971606771701 0
 137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_define_property.cjs134306971607816915 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_extends.cjs134306971609186289 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs134306971609516608 0
@@ -7524,7 +7538,6 @@
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\detect-csp.mjs134306068444329315 0
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_identity.cjs134306971610359390 0
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_inherits.cjs134306971611023723 0
-146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\typeset.md134306068472595754 0
 150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\generate-image.mjs134306068445192975 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_inherits_loose.cjs134306971610521187 0
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@swc\helpers\cjs\_initializer_warning_helper.cjs134306971611583733 0
@@ -7863,8 +7876,8 @@
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\runtime-browser-hmr\lib\loaders134306971560044194 1
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\resolver-default\lib134306971558491114 1
 128C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\resolver-default\src134306971565218098 1
-147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\resolver-default\lib\DefaultResolver.js134306971559906434 0
 152C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\critique-storage.mjs134306068462653396 0
+147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\resolver-default\lib\DefaultResolver.js134306971559906434 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-tracer\LICENSE134306971558162955 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-dev-server\LICENSE134306971559603147 0
 165C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\scripts\live\frameworks\static-html.mjs134306068481149003 0
@@ -7880,8 +7893,8 @@
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-cli\src\bundleReport.js134306971566502501 0
 133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-cli\src\emoji.js134306971586812020 0
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-cli\src\render.js134306971589618452 0
-139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-cli\lib\CLIReporter.js134306971582243624 0
 127C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.impeccable\config.local.json134306068358312389 0
+139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\reporter-cli\lib\CLIReporter.js134306971582243624 0
 120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\profiler\lib134306971591567533 1
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\profiler\LICENSE134306971548281671 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\profiler\package.json134306971587793043 0
@@ -7907,6 +7920,7 @@
 124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-raw\src134306971566265052 1
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\lib134306971594085352 1
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\src\CJSOutputFormat.js134306971568067299 0
+102C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\ArdyssLife134306997106904472 1
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\src\dev-prelude.js134306971574814983 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\src\DevPackager.js134306971579957221 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\src\ESMOutputFormat.js134306971583187833 0
@@ -7917,6 +7931,7 @@
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\lib\dev-prelude.js134306971571002490 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\lib\index.js134306971589337318 0
 132C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-js\lib\utils.js134306971594312404 0
+120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\productoclasic3.0d700d40.png134306997098951108 0
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-html\lib134306971560420368 1
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-html\src134306971566542857 1
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\packager-html\src\HTMLPackager.js134306971568017335 0
@@ -7954,7 +7969,6 @@
 154C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js134306971600808981 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\package-manager\lib\index.d.ts134306971609603623 0
 140C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\package-manager\lib\index.js.map134306971608606942 0
-133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\reference134306068461711859 1
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\optimizer-swc\lib134306971561039719 1
 134C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\optimizer-swc\package.json134306971571437645 0
 125C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\optimizer-swc\src134306971567609889 1
@@ -8130,6 +8144,7 @@
 130C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\Validation.js134306971650703751 0
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js134306971601991854 0
 136C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\codeframe\test\fixtures\a.js134306971557310916 0
+109C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\hero.0aa92265.png134306997104480628 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\requests\AssetRequest.js134306971602775521 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\requests\ConfigRequest.js134306971613874465 0
 142C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@parcel\core\lib\requests\DevDepRequest.js134306971620598921 0
@@ -8182,8 +8197,8 @@
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\package.json134306971579847189 0
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\adapters134306971584188780 1
 129C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\index.js134306971568539982 0
-137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\types\index.d.ts134306971586749102 0
 149C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\live-setup.md134306068471153352 0
+137C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\types\index.d.ts134306971586749102 0
 141C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\providers\async.d.ts134306971582977826 0
 139C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.stat\out\providers\async.js134306971552925762 0
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\@nodelib\fs.scandir\out\constants.d.ts134306971589277327 0
@@ -8281,6 +8296,17 @@
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\.bin\serve.cmd134306971704146817 0
 114C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\.bin\serve.ps1134306971704167068 0
 113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\node_modules\.bin\uuid.ps1134306971703906506 0
+115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\ardysslife.627df627.png134306997104450647 0
+115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\artesanias.d0d8087a.png134306997098425613 0
+105C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\DiosaInterior134306997106775570 1
+124C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\diosa_interior_logo.eef9d565.png134306997098951108 0
+118C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\linea-clasica.627df627.png134306997104480628 0
+116C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\linea-drink.0d4fe13d.png134306997104510584 0
+119C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\linea-femenina.0aa92265.png134306997098941244 0
+120C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\productoclasic1.a4f8f586.png134306997098951108 0
+118C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\productopiel1.76098fd9.png134306997104510584 0
+113C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\StefyShop.49dc845a.js134306997105970115 0
+115C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\dist\ArtesaniasCJ\index.html134306997105860056 0
 107C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\Diosainterior\public134306013818439374 1
 138C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\Diosainterior\public\img\Diosa interior_portada.jpg134275669676133106 0
 135C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\Diosainterior\public\img\diosa_interior_logo.png134275706001275332 0
@@ -8374,15 +8400,22 @@
 150C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\craft-floor.md134306068470686800 0
 145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\harden.md134306068471011442 0
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\init.md134306068471069051 0
+145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\layout.md134306068471133173 0
 143C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\live.md134306068471194578 0
 147C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\new-work.md134306068471235141 0
+146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\onboard.md134306068471286250 0
+146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\operate.md134306068471337180 0
+145C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\polish.md134306068471554032 0
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\quieter.md134306068471635477 0
 146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\routing.md134306068472266736 0
+146C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\typeset.md134306068472595754 0
 162C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\degraded\asset-producer.md134306068470812354 0
+158C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\degraded\documenter.md134306068470831489 0
 155C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\live-browser-session.js134306068468833755 0
 167C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.opencode\skills\impeccable\reference\degraded\manual-edit-applier.md134306068470848889 0
 112C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills134306068458213607 1
 123C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable134306068470180559 1
+133C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\reference134306068461711859 1
 164C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.claude\skills\impeccable\scripts\live\frameworks\tag-strategy.mjs134306068446198505 0
 131C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts134306068470160353 1
 148C:\Users\HP\OneDrive\Escritorio\jesus\Proyectos de software\proyecto stefany\StefyShop\ArdyssLife\.gemini\skills\impeccable\scripts\concept-seed.mjs134306068462441092 0
