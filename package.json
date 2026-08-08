@@ -4,9 +4,10 @@
   "description": "Sitio web de StefyShop para la venta de artesanías",
   "type": "module",
   "scripts": {
-    "start": "npx serve .",
     "dev": "npx live-server .",
     "build": "parcel build index.html",
+    "preview": "npx serve dist",
+    "start": "npx serve .",
     "test": "echo \"No test specified\" && exit 0",
     "lint": "npx eslint .",
     "format": "npx prettier --write ."
