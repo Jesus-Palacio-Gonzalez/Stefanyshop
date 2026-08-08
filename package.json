@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "npx live-server .",
-    "build": "parcel build index.html",
+    "build": "npx parcel build index.html",
     "preview": "npx serve dist",
     "start": "npx serve .",
     "test": "echo \"No test specified\" && exit 0",
