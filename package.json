@@ -1,0 +1,32 @@
+{
+  "name": "stefyshop",
+  "version": "1.0.0",
+  "description": "Sitio web de StefyShop para la venta de artesanías",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server .",
+    "build": "npx parcel build index.html",
+    "test": "echo \"No test specified\" && exit 0",
+    "lint": "npx eslint .",
+    "format": "npx prettier --write ."
+  },
+  "keywords": [
+    "artesanias",
+    "ecommerce",
+    "web",
+    "stefyshop"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "live-server": "^1.2.2",
+    "prettier": "^3.3.3",
+    "serve": "^14.2.3"
+  }
+}

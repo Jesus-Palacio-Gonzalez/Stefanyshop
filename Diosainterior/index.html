@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Diosa Interior · Génesis 2026</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        /* ----- RESET & BASE ----- */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* ----- FONDO GENERAL CON IMAGEN ----- */
+        body {
+            background-color: #0b0a0a;
+            /* Imagen de fondo: CAMBIA ESTA URL POR LA TUYA */
+            background-image: url('https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop');
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+            color: #e3d9d0;
+            font-family: 'Inter', sans-serif;
+            font-weight: 300;
+            line-height: 1.6;
+            scroll-behavior: smooth;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(11, 10, 10, 0.75);
+            z-index: -1;
+        }
+
+        .wrapper {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* ----- TIPOGRAFÍA ----- */
+        h1, h2, h3, h4, .hero-subtitle, .section-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 600;
+            letter-spacing: 0.04em;
+        }
+
+        .gold { color: #d4af37; }
+        .gold-light { color: #e8d5a3; }
+        .text-soft { color: #cbc0b5; }
+
+        /* ----- CONTENEDOR ----- */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* ----- HEADER / NAV ----- */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 100;
+            padding: 12px 0;
+            background: rgba(11, 10, 10, 0.6);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+            transition: background 0.3s;
+        }
+
+        header .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        /* Logo como imagen */
+        .logo-img {
+            height: 50px;
+            width: auto;
+            display: block;
+        }
+
+        nav ul {
+            display: flex;
+            gap: 36px;
+            list-style: none;
+        }
+
+        nav a {
+            color: #cbc0b5;
+            text-decoration: none;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 400;
+            transition: color 0.3s, border-color 0.3s;
+            border-bottom: 1px solid transparent;
+            padding-bottom: 4px;
+        }
+
+        nav a:hover {
+            color: #d4af37;
+            border-bottom-color: #d4af37;
+        }
+
+        .menu-toggle {
+            display: none;
+            font-size: 1.5rem;
+            color: #d4af37;
+            cursor: pointer;
+        }
+
+        /* ----- HERO ----- */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 120px 24px 80px;
+            background: rgba(11, 10, 10, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before { display: none; }
+
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            max-width: 820px;
+        }
+
+        .hero-badge {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1rem;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+            color: #d4af37;
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            display: inline-block;
+            padding: 8px 28px;
+            border-radius: 40px;
+            margin-bottom: 30px;
+            backdrop-filter: blur(4px);
+            background: rgba(0,0,0,0.2);
+        }
+
+        .hero h1 {
+            font-size: clamp(3.5rem, 12vw, 7rem);
+            font-weight: 700;
+            line-height: 1.1;
+            color: #fff;
+            text-shadow: 0 4px 40px rgba(0,0,0,0.7);
+            margin-bottom: 10px;
+        }
+
+        .hero h1 .gold {
+            display: block;
+            font-size: clamp(2.8rem, 8vw, 5rem);
+            font-weight: 300;
+            letter-spacing: 12px;
+            margin-top: -10px;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+            font-weight: 300;
+            color: #e8d5a3;
+            letter-spacing: 8px;
+            margin: 16px 0 30px;
+            text-transform: uppercase;
+            border-top: 1px solid rgba(212, 175, 55, 0.2);
+            border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+            padding: 14px 0;
+            display: inline-block;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            color: #e8d9d0;
+            max-width: 540px;
+            margin: 0 auto 40px;
+            font-weight: 300;
+            text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+        }
+
+        .hero .btn {
+            display: inline-block;
+            padding: 14px 48px;
+            border: 1px solid #d4af37;
+            color: #d4af37;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: all 0.4s;
+            border-radius: 40px;
+            background: rgba(0,0,0,0.3);
+            backdrop-filter: blur(4px);
+        }
+
+        .hero .btn:hover {
+            background: #d4af37;
+            color: #0b0a0a;
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.3);
+        }
+
+        /* ----- SECCIÓN HISTORIA (con imagen) ----- */
+        .historia {
+            padding: 100px 0;
+            background: rgba(15, 13, 12, 0.7);
+            backdrop-filter: blur(8px);
+            border-top: 1px solid rgba(212, 175, 55, 0.1);
+            border-bottom: 1px solid rgba(212, 175, 55, 0.1);
+        }
+
+        .historia .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .historia-text h2 {
+            font-size: 3rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        .historia-text h2 .gold {
+            font-weight: 300;
+            display: block;
+            font-size: 1.8rem;
+            letter-spacing: 8px;
+            margin-top: 4px;
+        }
+
+        .historia-text p {
+            font-size: 1.05rem;
+            color: #cbc0b5;
+            margin-bottom: 18px;
+            font-weight: 300;
+        }
+
+        .historia-text .firma {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.4rem;
+            font-style: italic;
+            color: #d4af37;
+            margin-top: 24px;
+            border-left: 2px solid #d4af37;
+            padding-left: 24px;
+        }
+
+        /* Imagen en lugar del ornamento */
+        .historia-imagen {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .historia-imagen img {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 20px;
+            box-shadow: 0 0 40px rgba(212, 175, 55, 0.1);
+            border: 1px solid rgba(212, 175, 55, 0.15);
+            aspect-ratio: 1/1;
+            object-fit: cover;
+        }
+
+        /* ----- SECCIÓN GUÍA DE TALLAS ----- */
+        .tallas {
+            padding: 100px 0;
+            background: rgba(11, 10, 10, 0.7);
+            backdrop-filter: blur(8px);
+            border-bottom: 1px solid rgba(212, 175, 55, 0.1);
+        }
+
+        .tallas .container {
+            max-width: 900px;
+        }
+
+        .tallas-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .tallas-header h2 {
+            font-size: 3rem;
+            font-weight: 600;
+            letter-spacing: 3px;
+        }
+
+        .tallas-header h2 .gold {
+            font-weight: 300;
+            display: block;
+            font-size: 1.6rem;
+            letter-spacing: 8px;
+            margin-top: 4px;
+        }
+
+        .tallas-intro {
+            text-align: center;
+            max-width: 760px;
+            margin: 0 auto 40px;
+            color: #cbc0b5;
+            font-size: 1.05rem;
+            font-weight: 300;
+        }
+
+        .tallas-intro strong {
+            color: #e8d5a3;
+            font-weight: 500;
+        }
+
+        .tallas-medidas {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+            margin-bottom: 40px;
+        }
+
+        .tallas-medidas .medida {
+            text-align: center;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #a0978c;
+            border: 1px solid rgba(212, 175, 55, 0.15);
+            padding: 10px 24px;
+            border-radius: 40px;
+            background: rgba(20, 17, 15, 0.6);
+            backdrop-filter: blur(4px);
+        }
+
+        .tallas-medidas .medida i {
+            color: #d4af37;
+            margin-right: 8px;
+            font-size: 1rem;
+        }
+
+        .tallas-medidas .medida span {
+            display: block;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.8rem;
+            font-weight: 300;
+            color: #e8d5a3;
+            margin-top: 4px;
+        }
+
+        .tallas-tabla {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 30px 0 40px;
+            font-size: 0.95rem;
+            background: rgba(15, 13, 12, 0.6);
+            backdrop-filter: blur(4px);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .tallas-tabla thead {
+            background: rgba(212, 175, 55, 0.08);
+            border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .tallas-tabla th {
+            padding: 18px 16px;
+            text-align: center;
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: #e8d5a3;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .tallas-tabla td {
+            padding: 16px 12px;
+            text-align: center;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.06);
+            color: #cbc0b5;
+        }
+
+        .tallas-tabla tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        .tallas-tabla tbody tr:hover {
+            background: rgba(212, 175, 55, 0.03);
+        }
+
+        .tallas-tabla .categoria {
+            font-weight: 500;
+            color: #e8d5a3;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
+        }
+
+        .tallas-outro {
+            text-align: center;
+            color: #a0978c;
+            font-size: 1rem;
+            max-width: 640px;
+            margin: 0 auto 20px;
+            border-top: 1px solid rgba(212, 175, 55, 0.1);
+            padding-top: 30px;
+        }
+
+        .tallas-outro strong {
+            color: #e8d5a3;
+            font-weight: 400;
+        }
+
+        .tallas-marca {
+            text-align: center;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.8rem;
+            letter-spacing: 6px;
+            color: #d4af37;
+            margin-top: 20px;
+            opacity: 0.6;
+        }
+
+        .tallas-marca small {
+            font-size: 1rem;
+            letter-spacing: 4px;
+            display: block;
+            color: #7a7269;
+            font-weight: 300;
+        }
+
+        /* ----- SECCIÓN COLECCIÓN (CARDS) ----- */
+        .coleccion {
+            padding: 100px 0;
+            background: rgba(11, 10, 10, 0.7);
+            backdrop-filter: blur(8px);
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .section-header h2 {
+            font-size: 3.2rem;
+            font-weight: 600;
+            letter-spacing: 4px;
+        }
+
+        .section-header h2 .gold {
+            font-weight: 300;
+            display: block;
+            font-size: 1.8rem;
+            letter-spacing: 10px;
+            margin-top: 4px;
+        }
+
+        .section-header p {
+            color: #a0978c;
+            font-size: 1rem;
+            letter-spacing: 2px;
+            margin-top: 8px;
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+            gap: 40px 30px;
+        }
+
+        .card {
+            background: rgba(20, 17, 15, 0.85);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(212, 175, 55, 0.12);
+            border-radius: 20px;
+            overflow: hidden;
+            transition: transform 0.4s, box-shadow 0.4s, border-color 0.4s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            border-color: rgba(212, 175, 55, 0.4);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 30px rgba(212, 175, 55, 0.05);
+        }
+
+        .card-imagen {
+            height: 320px;
+            background: rgba(28, 23, 20, 0.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            color: #d4af37;
+            opacity: 0.7;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.05);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card-imagen .icono-prenda {
+            filter: drop-shadow(0 0 30px rgba(212, 175, 55, 0.1));
+            transition: transform 0.5s;
+        }
+
+        .card:hover .icono-prenda {
+            transform: scale(1.05);
+        }
+
+        .card-imagen .etiqueta {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            background: rgba(212, 175, 55, 0.15);
+            backdrop-filter: blur(8px);
+            color: #d4af37;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            padding: 4px 14px;
+            border-radius: 30px;
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .card-body {
+            padding: 24px 20px 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-body h3 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #e8d5a3;
+            margin-bottom: 4px;
+        }
+
+        .card-body .sub {
+            color: #a0978c;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+        }
+
+        .card-body .desc {
+            color: #cbc0b5;
+            font-size: 0.95rem;
+            font-weight: 300;
+            margin-bottom: 18px;
+            flex: 1;
+        }
+
+        .card-footer {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            border-top: 1px solid rgba(212, 175, 55, 0.08);
+            padding-top: 16px;
+            margin-top: 4px;
+            gap: 12px;
+        }
+
+        .card-footer .precio {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.6rem;
+            font-weight: 600;
+            color: #d4af37;
+            letter-spacing: 1px;
+        }
+
+        .card-footer .precio small {
+            font-size: 0.9rem;
+            font-weight: 300;
+            color: #a0978c;
+            margin-right: 4px;
+        }
+
+        .talla-selector {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #a0978c;
+        }
+
+        .talla-selector i {
+            color: #d4af37;
+            font-size: 0.7rem;
+        }
+
+        .talla-selector select {
+            background: #1c1714;
+            border: 1px solid rgba(212, 175, 55, 0.25);
+            color: #e3d9d0;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8rem;
+            padding: 4px 8px;
+            border-radius: 30px;
+            outline: none;
+            cursor: pointer;
+            transition: border-color 0.3s;
+            appearance: none;
+            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6"><path d="M0 0l5 6 5-6z" fill="%23d4af37"/></svg>');
+            background-repeat: no-repeat;
+            background-position: right 8px center;
+            background-size: 10px 6px;
+            padding-right: 26px;
+            min-width: 70px;
+        }
+
+        .talla-selector select:focus {
+            border-color: #d4af37;
+        }
+
+        .talla-selector select option {
+            background: #14110f;
+            color: #e3d9d0;
+        }
+
+        .btn-whatsapp {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            background: #25d366;
+            color: #0b0a0a;
+            border: none;
+            padding: 10px 18px;
+            border-radius: 40px;
+            font-family: 'Inter', sans-serif;
+            font-weight: 500;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.2s;
+            width: 100%;
+            margin-top: 12px;
+            border: 1px solid transparent;
+        }
+
+        .btn-whatsapp i {
+            font-size: 1.1rem;
+        }
+
+        .btn-whatsapp:hover {
+            background: #1ebe5d;
+            transform: scale(1.02);
+        }
+
+        .btn-whatsapp:active {
+            transform: scale(0.98);
+        }
+
+        /* ----- FOOTER ----- */
+        footer {
+            background: rgba(15, 13, 12, 0.8);
+            backdrop-filter: blur(8px);
+            padding: 40px 0 28px;
+            border-top: 1px solid rgba(212, 175, 55, 0.1);
+            text-align: center;
+        }
+
+        footer .logo-img {
+            height: 75px;
+            margin: 0 auto 8px;
+        }
+
+        footer p {
+            color: #7a7269;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+        }
+
+        footer .social {
+            margin-top: 16px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        footer .social a {
+            color: #7a7269;
+            font-size: 1.2rem;
+            transition: color 0.3s;
+        }
+
+        footer .social a:hover {
+            color: #d4af37;
+        }
+
+        /* ----- RESPONSIVE ----- */
+        @media (max-width: 992px) {
+            .historia .container {
+                grid-template-columns: 1fr;
+                gap: 40px;
+                text-align: center;
+            }
+            .historia-text .firma {
+                border-left: none;
+                padding-left: 0;
+                text-align: center;
+            }
+            .historia-imagen img {
+                max-width: 300px;
+            }
+            .tallas-medidas {
+                gap: 20px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            nav ul {
+                display: none;
+                flex-direction: column;
+                background: rgba(11, 10, 10, 0.95);
+                backdrop-filter: blur(12px);
+                position: absolute;
+                top: 68px;
+                left: 0;
+                width: 100%;
+                padding: 20px 24px;
+                gap: 18px;
+                border-bottom: 1px solid rgba(212, 175, 55, 0.1);
+            }
+            nav ul.open {
+                display: flex;
+            }
+            .menu-toggle {
+                display: block;
+            }
+            .hero h1 {
+                font-size: 3.8rem;
+            }
+            .hero h1 .gold {
+                font-size: 2.8rem;
+                letter-spacing: 6px;
+            }
+            .section-header h2 {
+                font-size: 2.6rem;
+            }
+            .cards-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .card-footer {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .talla-selector {
+                justify-content: center;
+            }
+            .btn-whatsapp {
+                margin-top: 8px;
+            }
+            .tallas-tabla {
+                font-size: 0.8rem;
+            }
+            .tallas-tabla th,
+            .tallas-tabla td {
+                padding: 12px 8px;
+            }
+            .tallas-header h2 {
+                font-size: 2.4rem;
+            }
+            .tallas-medidas .medida {
+                padding: 6px 16px;
+                font-size: 0.8rem;
+            }
+            .historia-imagen img {
+                max-width: 250px;
+            }
+        }
+
+        @media (max-width: 500px) {
+            .cards-grid {
+                grid-template-columns: 1fr;
+                max-width: 360px;
+                margin: 0 auto;
+            }
+            .hero h1 {
+                font-size: 2.8rem;
+            }
+            .hero h1 .gold {
+                font-size: 2.2rem;
+            }
+            .hero-subtitle {
+                font-size: 1rem;
+                letter-spacing: 4px;
+            }
+            .tallas-tabla {
+                font-size: 0.7rem;
+            }
+            .tallas-tabla th,
+            .tallas-tabla td {
+                padding: 10px 6px;
+            }
+            .tallas-header h2 {
+                font-size: 2rem;
+            }
+            .tallas-medidas {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+
+        <!-- HEADER -->
+        <header>
+            <div class="container">
+                <!-- Logo en imagen -->
+                <a href="#inicio">
+                    <img class="logo-img" src="./public/img/diosa_interior_logo.png" alt="Diosa Interior" />
+                </a>
+                <nav>
+                    <ul id="navMenu">
+                        <li><a href="#historia">Historia</a></li>
+                        <li><a href="#tallas">Guía de tallas</a></li>
+                        <li><a href="#coleccion">Colección</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+                    </ul>
+                    <div class="menu-toggle" id="menuToggle">
+                        <i class="fas fa-bars"></i>
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+        <!-- HERO -->
+        <section class="hero" id="inicio">
+            <div class="hero-content">
+                <div class="hero-badge">✦ Colección 2026</div>
+                <h1>
+                    DIOSA
+                    <span class="gold">INTERIOR</span>
+                </h1>
+                <div class="hero-subtitle">Génesis · El origen de tu poder</div>
+                <p>Prendas que despiertan la esencia femenina, tejidas con la luz de la luna y el fuego del oro.</p>
+                <a href="#coleccion" class="btn">Descubrir</a>
+            </div>
+        </section>
+
+        <!-- HISTORIA (con nuevo texto y imagen) -->
+        <section class="historia" id="historia">
+            <div class="container">
+                <div class="historia-text">
+                    <h2>
+                        Confección con propósito.
+                        <span class="gold">Génesis</span>
+                    </h2>
+                    <p>
+                        <span class="gold-light">Nuestra fábrica en Santa Marta</span> creamos piezas que celebran la arquitectura del cuerpo femenino. En la colección Génesis, cada costura en licra premium y cada detalle en malla está pensado para ofrecerte una experiencia de lujo cotidiano.
+                    </p>
+                    <p>
+                        La colección <strong>Génesis</strong> evoca el primer destello de luz, el instante en que la mujer descubre su poder interior. Piezas únicas, confeccionadas a mano con tejidos nobles y acabados que brillan como constelaciones.
+                    </p>
+                    <div class="firma">
+                        Bienvenida al origen, Diosa interior.
+                    </div>
+                </div>
+                <div class="historia-imagen">
+                    <!-- Imagen en lugar de la luna -->
+                    <img src="./public/img/haz tu pedido.jpg" alt="Mujer con prenda Diosa Interior" />
+                </div>
+            </div>
+        </section>
+
+        <!-- GUÍA DE TALLAS -->
+        <section class="tallas" id="tallas">
+            <div class="container">
+                <div class="tallas-header">
+                    <h2>
+                        Guía de tallas
+                        <span class="gold">Encuentra tu ajuste perfecto</span>
+                    </h2>
+                </div>
+
+                <div class="tallas-intro">
+                    Nuestro sistema de diseño inteligente, con múltiples puntos graduables, está diseñado para adaptarse a tu cuerpo de forma única. Utiliza esta tabla como referencia de tus medidas clave y personaliza el contorno exacto con nuestros tensores de precisión. <strong>¡Descubre tu verdadera comodidad desde el origen!</strong>
+                </div>
+
+                <div class="tallas-medidas">
+                    <div class="medida">
+                        <i class="fas fa-arrows-alt-h"></i> Busto
+                        <span>contorno completo</span>
+                    </div>
+                    <div class="medida">
+                        <i class="fas fa-arrows-alt-v"></i> Cintura
+                        <span>zona más estrecha</span>
+                    </div>
+                    <div class="medida">
+                        <i class="fas fa-arrows-alt-h"></i> Cadera
+                        <span>contorno más amplio</span>
+                    </div>
+                </div>
+
+                <table class="tallas-tabla">
+                    <thead>
+                        <tr>
+                            <th>Categoría</th>
+                            <th>Talla S (cm)</th>
+                            <th>Talla M (cm)</th>
+                            <th>Talla L (cm)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="categoria">Busto</td>
+                            <td>84 - 95</td>
+                            <td>96 - 107</td>
+                            <td>108 - 119</td>
+                        </tr>
+                        <tr>
+                            <td class="categoria">Cintura</td>
+                            <td>60 - 71</td>
+                            <td>72 - 83</td>
+                            <td>84 - 95</td>
+                        </tr>
+                        <tr>
+                            <td class="categoria">Cadera</td>
+                            <td>88 - 99</td>
+                            <td>100 - 111</td>
+                            <td>112 - 123</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="tallas-outro">
+                    ¡Si tienes dudas, contáctanos y te asesoraremos en tu elección! <br />
+                    <strong>Prepárate para sentirte espectacular.</strong>
+                </div>
+
+                <div class="tallas-marca">
+                    DIOSA®
+                    <small>INTERIOR</small>
+                </div>
+            </div>
+        </section>
+
+        <!-- COLECCIÓN -->
+        <section class="coleccion" id="coleccion">
+            <div class="container">
+                <div class="section-header">
+                    <h2>
+                        Colección
+                        <span class="gold">Génesis 2026</span>
+                    </h2>
+                    <p>✦ Prendas atemporales para la diosa que llevas dentro ✦</p>
+                </div>
+
+                <div class="cards-grid">
+                    <!-- Card 1: Top Aura -->
+                    <div class="card" data-nombre="Top Aura" data-precio="1.280">
+                        <div class="card-imagen">
+                            <span class="icono-prenda"><i class="fas fa-tshirt"></i></span>
+                            <span class="etiqueta">Nuevo</span>
+                        </div>
+                        <div class="card-body">
+                            <h3>Top Aura</h3>
+                            <div class="sub">Seda de luna</div>
+                            <p class="desc">Escote asimétrico, drapeado etéreo y cierre dorado. Tejido fluid que abraza la piel.</p>
+                            <div class="card-footer">
+                                <span class="precio"><small>$</small>1.280</span>
+                                <div class="talla-selector">
+                                    <i class="fas fa-ruler"></i>
+                                    <select class="talla-select">
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn-whatsapp" data-nombre="Top Aura" data-precio="1.280">
+                                <i class="fab fa-whatsapp"></i> Consultar por WhatsApp
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Card 2: Vestido Génesis -->
+                    <div class="card" data-nombre="Vestido Génesis" data-precio="2.450">
+                        <div class="card-imagen">
+                            <span class="icono-prenda"><i class="fas fa-vest"></i></span>
+                            <span class="etiqueta">Exclusivo</span>
+                        </div>
+                        <div class="card-body">
+                            <h3>Vestido Génesis</h3>
+                            <div class="sub">Terciopelo estelar</div>
+                            <p class="desc">Línea evasé, espalda descubierta y cintura marcada con cadeneta dorada. Poder y sutileza.</p>
+                            <div class="card-footer">
+                                <span class="precio"><small>$</small>2.450</span>
+                                <div class="talla-selector">
+                                    <i class="fas fa-ruler"></i>
+                                    <select class="talla-select">
+                                        <option value="XS">XS</option>
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn-whatsapp" data-nombre="Vestido Génesis" data-precio="2.450">
+                                <i class="fab fa-whatsapp"></i> Consultar por WhatsApp
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Card 3: Conjunto Alba -->
+                    <div class="card" data-nombre="Conjunto Alba" data-precio="2.890">
+                        <div class="card-imagen">
+                            <span class="icono-prenda"><i class="fas fa-vest-pants"></i></span>
+                            <span class="etiqueta">Edición limitada</span>
+                        </div>
+                        <div class="card-body">
+                            <h3>Conjunto Alba</h3>
+                            <div class="sub">Lino y oro</div>
+                            <p class="desc">Pantalón wide leg y chaqueta cropped con bordados de hilo metálico. Versátil y majestuoso.</p>
+                            <div class="card-footer">
+                                <span class="precio"><small>$</small>2.890</span>
+                                <div class="talla-selector">
+                                    <i class="fas fa-ruler"></i>
+                                    <select class="talla-select">
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                        <option value="XL">XL</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn-whatsapp" data-nombre="Conjunto Alba" data-precio="2.890">
+                                <i class="fab fa-whatsapp"></i> Consultar por WhatsApp
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Card 4: Poncho Cósmico -->
+                    <div class="card" data-nombre="Poncho Cósmico" data-precio="3.120">
+                        <div class="card-imagen">
+                            <span class="icono-prenda"><i class="fas fa-palette"></i></span>
+                            <span class="etiqueta">Arte</span>
+                        </div>
+                        <div class="card-body">
+                            <h3>Poncho Cósmico</h3>
+                            <div class="sub">Alpaca y seda</div>
+                            <p class="desc">Diseño circular, flecos de oro y motivos lunares. Una capa de protección y estilo.</p>
+                            <div class="card-footer">
+                                <span class="precio"><small>$</small>3.120</span>
+                                <div class="talla-selector">
+                                    <i class="fas fa-ruler"></i>
+                                    <select class="talla-select">
+                                        <option value="Única">Única</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn-whatsapp" data-nombre="Poncho Cósmico" data-precio="3.120">
+                                <i class="fab fa-whatsapp"></i> Consultar por WhatsApp
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Card 5: Falda Aurora -->
+                    <div class="card" data-nombre="Falda Aurora" data-precio="1.760">
+                        <div class="card-imagen">
+                            <span class="icono-prenda"><i class="fas fa-gem"></i></span>
+                            <span class="etiqueta">Boutique</span>
+                        </div>
+                        <div class="card-body">
+                            <h3>Falda Aurora</h3>
+                            <div class="sub">Crepé de luna</div>
+                            <p class="desc">Largo midi, pliegues asimétricos y cinturón de cadena dorada. Movimiento y luz.</p>
+                            <div class="card-footer">
+                                <span class="precio"><small>$</small>1.760</span>
+                                <div class="talla-selector">
+                                    <i class="fas fa-ruler"></i>
+                                    <select class="talla-select">
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn-whatsapp" data-nombre="Falda Aurora" data-precio="1.760">
+                                <i class="fab fa-whatsapp"></i> Consultar por WhatsApp
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Card 6: Capa Regia -->
+                    <div class="card" data-nombre="Capa Regia" data-precio="4.200">
+                        <div class="card-imagen">
+                            <span class="icono-prenda"><i class="fas fa-crown"></i></span>
+                            <span class="etiqueta">Reserva</span>
+                        </div>
+                        <div class="card-body">
+                            <h3>Capa Regia</h3>
+                            <div class="sub">Terciopelo bordado</div>
+                            <p class="desc">Capelina con pedrería dorada y cuello alto. Para coronar tu esencia divina.</p>
+                            <div class="card-footer">
+                                <span class="precio"><small>$</small>4.200</span>
+                                <div class="talla-selector">
+                                    <i class="fas fa-ruler"></i>
+                                    <select class="talla-select">
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                        <option value="XL">XL</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn-whatsapp" data-nombre="Capa Regia" data-precio="4.200">
+                                <i class="fab fa-whatsapp"></i> Consultar por WhatsApp
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FOOTER -->
+        <footer id="contacto">
+            <div class="container">
+                <img class="logo-img" src="./public/img/diosa_interior_logo.png" alt="Diosa Interior" />
+                <p>© 2026 · Génesis · El origen de tu poder</p>
+                <p>Hecho con Amor ❤️</p>
+                <p> By PalacioTech®</p>
+                <div class="social">
+                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#" aria-label="Spotify"><i class="fab fa-spotify"></i></a>
+                    <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </footer>
+
+    </div> <!-- /wrapper -->
+
+    <!-- JavaScript -->
+    <script>
+        // Menú móvil
+        const toggle = document.getElementById('menuToggle');
+        const navMenu = document.getElementById('navMenu');
+
+        toggle.addEventListener('click', () => {
+            navMenu.classList.toggle('open');
+        });
+
+        document.querySelectorAll('nav a').forEach(link => {
+            link.addEventListener('click', () => {
+                navMenu.classList.remove('open');
+            });
+        });
+
+        // Efecto de header al scroll
+        const header = document.querySelector('header');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 40) {
+                header.style.background = 'rgba(11, 10, 10, 0.85)';
+                header.style.borderBottom = '1px solid rgba(212, 175, 55, 0.2)';
+            } else {
+                header.style.background = 'rgba(11, 10, 10, 0.6)';
+                header.style.borderBottom = '1px solid rgba(212, 175, 55, 0.15)';
+            }
+        });
+
+        // ----- BOTONES WHATSAPP -----
+        const TELEFONO = '521234567890'; // <--- CAMBIAR AQUÍ
+
+        document.querySelectorAll('.btn-whatsapp').forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                e.preventDefault();
+
+                const card = this.closest('.card');
+                const nombre = this.dataset.nombre || card.dataset.nombre || 'Prenda';
+                const precio = this.dataset.precio || card.dataset.precio || '0';
+                const select = card.querySelector('.talla-select');
+                const talla = select ? select.value : 'No especificada';
+
+                const mensaje = `Hola, me interesa la prenda *${nombre}* en talla *${talla}* con precio *$${precio}*. ¿Podrían darme más información?`;
+                const url = `https://wa.me/${TELEFONO}?text=${encodeURIComponent(mensaje)}`;
+                window.open(url, '_blank');
+            });
+        });
+    </script>
+</body>
+</html>
